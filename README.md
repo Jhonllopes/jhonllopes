@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Olá, eu sou Jhonathan Lopes 👋</h1>
 
 <p align="center">
@@ -6,39 +5,60 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/jhonathan-jhonllopes/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="320px">
 </p>
 
 ---
 
 <p align="center">
-  Sou apaixonado por tecnologia, programação e inovação.  
-  Aqui você encontrará meus projetos acadêmicos, experiências com desenvolvimento mobile, robótica, arquitetura de software e muito mais 🚀
-</p>
-
-<p align="center">
-  <a href="SEU_LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-www.linkedin.com/in/jhonathan-lopes-caldas">
-  </a>
-  <a href="SEU_LINK_GITHUB">
-    <img src="https://img.shields.io/badge/-GitHubhttps://github.com/Jhonllopes">
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/-Email-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
+  Sou apaixonado por tecnologia, programação e inovação 🚀 <br>
+  Aqui você encontrará meus projetos acadêmicos, experiências com desenvolvimento mobile,
+  robótica, arquitetura de software e muito mais.
 </p>
 
 ---
 
-### 🧠 Sobre Mim
+## 🚀 Sobre Mim
 
 - 💻 Estudante de Engenharia de Software
-- 🤖 Experiência com projetos de robótica e multirrobótica
-- 📱 Desenvolvendo aplicações mobile com React Native
-- 📊 Interesse em tecnologia, bolsa de valores e inovação
-- 🚀 Sempre buscando evoluir como desenvolvedor
+- 🤖 Projetos com Robótica e Multirrobótica
+- 📱 Desenvolvimento Mobile com React Native
+- ☁️ Interesse em Cloud Computing e AWS
+- 📊 Interesse em tecnologia e mercado financeiro
+- 🚀 Sempre aprendendo algo novo
+
+---
+
+## 🌐 Redes
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jhonathan-lopes-caldas/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Jhonllopes" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 💻 Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55px"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55px"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55px"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55px"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80px"/>
+</p>
+
+---
 
 <p align="center">
-  <em>Construindo meu futuro, um commit de cada vez.</em> 🟩
+  <em>Construindo meu futuro um commit por vez 🚀</em>
 </p>
-```
